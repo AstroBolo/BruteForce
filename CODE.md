@@ -1,4 +1,4 @@
-CODE
+
 
 import random
 import pyautogui
